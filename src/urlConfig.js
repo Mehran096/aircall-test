@@ -1,0 +1,1 @@
+export const api = 'https://frontend-test-api.aircall.io';
